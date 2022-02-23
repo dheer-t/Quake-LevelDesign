@@ -1,6 +1,6 @@
 The Project is based on quake map that is designed for 2-4 players, this map is a multiplayer competitive level. The name of the level is called Grim Travel 7
 
-My first step of this process was deciding the theme and the setting. The theme of this map will be focusing on nature but will have some horror to it. However the setting of the map will be on a house that has a basement with a dungeon located in the woods
+My first step of this process was deciding the theme and the setting. The theme of this map will be focused on medivial times. However the setting of the map will be based on a broken down haunted castle that is abandoned in the forest.
 
 My inspirations for this map comes from the deathmaps I have played recently as well as the first level in quake, heres the URL for the level 1 map from Quake 1: https://quake.fandom.com/wiki/E1M1:_The_Slipgate_Complex
 
